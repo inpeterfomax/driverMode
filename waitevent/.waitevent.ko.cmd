@@ -1,0 +1,1 @@
+cmd_/home/peter/ws/linux-driver/waitevent/waitevent.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-4-common/scripts/module-common.lds --build-id  -o /home/peter/ws/linux-driver/waitevent/waitevent.ko /home/peter/ws/linux-driver/waitevent/waitevent.o /home/peter/ws/linux-driver/waitevent/waitevent.mod.o
